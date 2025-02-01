@@ -14,7 +14,7 @@ Een gratis en open-source QR-code generator.
 # Hoe te installeren?
 1. Download het .exe bestand
 2. Open het en voer uit  
-3. Scan en genereer QR-codes eenvoudig!
+3. Genereer QR-codes eenvoudig!
 
 # Waarom open-source?
 Omdat sommige antivirusprogramma’s de tool onterecht markeren als trojan, hebben we de code openbaar gemaakt voor volledige transparantie. Je kunt de code zelf inspecteren en compileren.
